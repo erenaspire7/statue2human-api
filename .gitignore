@@ -1,0 +1,9 @@
+venv/
+checkpoints/
+
+*.pth
+
+**/__pycache__
+
+*.png
+*.jpg
